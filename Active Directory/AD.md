@@ -62,9 +62,9 @@ git clone windapsearch by ropnop if you don’t already have it
 
 ### Hosting a Rogue LDAP Server
 
-Install the following packages`apt-get install slapd ldap-utils`
+Install the following packages `apt-get install slapd ldap-utils`
 
-Enable package on boot with`systemctl enable slapd`
+Enable package on boot with `systemctl enable slapd`
 
 Configure server to make it insecure with `dpkg`
 

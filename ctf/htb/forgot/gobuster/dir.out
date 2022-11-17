@@ -1,0 +1,5 @@
+/home                 (Status: 302) [Size: 189] [--> /]
+/login                (Status: 200) [Size: 5189]
+/forgot               (Status: 200) [Size: 5227]
+/tickets              (Status: 302) [Size: 189] [--> /]
+/reset                (Status: 200) [Size: 5523]
